@@ -1,0 +1,2 @@
+(this["webpackJsonpdcc-library"]=this["webpackJsonpdcc-library"]||[]).push([[0],{14:function(e,c,n){"use strict";n.r(c);var r=n(0),t=n(3),o=n.n(t),s=n(4),p=n(5),a=n(7),i=n(6),d=n(1),l=(r.Component,n(13),Object(d.jsx)("h1",{children:"Our React App"}));console.log(l),o.a.render(l,document.getElementById("root"))}},[[14,1,2]]]);
+//# sourceMappingURL=main.401f1e67.chunk.js.map
