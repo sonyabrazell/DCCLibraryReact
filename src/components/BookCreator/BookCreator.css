@@ -1,0 +1,9 @@
+.createbook {
+    margin-top: 1em;
+    padding: 1em;
+    background-color: lightgrey;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
